@@ -1,0 +1,9 @@
+pwd - current directory
+cd - change directory (./%name%, ../)
+mkdir - create directory
+touch - create a file (%name%.*ext*)
+ls - show all files in currtent directory (can be used with flags)
+
+git
+init - create .git
+status - check current status of folder
