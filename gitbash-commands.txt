@@ -1,3 +1,9 @@
+//
+Dear visitors!
+Don't mind about this file. It's just a little helper for me in this huge studying stage :)
+I'm not sure i'll use it as often as i think, but as for the start, it would help me if I get stuck anywhere :)
+//
+
 pwd - current directory
 cd - change directory (./%name%, ../)
 mkdir - create directory
